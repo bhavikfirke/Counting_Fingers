@@ -1,4 +1,4 @@
-# Counting_Fingers
+# Counting Fingers
 In this project, convolutional neural network was used to count number of fingers as well as identify which hand was upheld in image
 #### [Notebook](https://github.com/bhavikfirke/Counting_Fingers/blob/main/counting_fingers_github.ipynb)
 
@@ -19,7 +19,7 @@ The [dataset](https://www.kaggle.com/datasets/koryakinp/fingers) consits of 1800
 - We obtain 95% accuracy and 0.049 Hamming loss on test set 
 
 ## Visualizing convnet output
-The image shows activation heatmap for test picture indicating 5 fingers <br>
+The test image of 5 fingers shown along with activation heatmap of last convolution layer <br>
 
 
 ![Activation heatmap example](https://github.com/bhavikfirke/Counting_Fingers/blob/main/GradCAM_heatmap.png)
