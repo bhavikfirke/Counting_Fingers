@@ -22,4 +22,4 @@ The [dataset](https://www.kaggle.com/datasets/koryakinp/fingers) consits of 1800
 The image shows activation heatmap for test picture indicating 5 fingers <br>
 
 
-![Activation heatmap example](https://github.com/bhavikfirke/Counting_Fingers/blob/main/GradCAM_heatmap_.png)
+![Activation heatmap example](https://github.com/bhavikfirke/Counting_Fingers/blob/main/GradCAM_heatmap.png)
