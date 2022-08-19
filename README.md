@@ -16,7 +16,7 @@ The [dataset](https://www.kaggle.com/datasets/koryakinp/fingers) consits of 1800
 - To select threshold value, performance  of various threshold values was evaluated using Matthews Correlation Coefficient
 
 ## Outcome
-- We obtain 95% accuracy and 0.049 Hamming loss on test set 
+- We obtain **0.73 exact match ratio** and **0.049 hamming loss** on test set 
 
 ## Visualizing convnet output
 The test image of 5 fingers shown along with activation heatmap of last convolution layer <br>
